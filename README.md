@@ -50,3 +50,6 @@ flex属性定义的是伸缩项目所占的伸缩容器剩余空间的比例；
  伸缩项目是否换行 flex-wrap nowrap wrap
     换行之后的对齐方式 align-content 跟 justify-content
     不换行的对齐方式  align-item:flex-start end center stretch baseline
+    
+6.重点内容    关于视口的设置
+
