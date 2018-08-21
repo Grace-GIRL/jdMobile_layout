@@ -1,7 +1,7 @@
-1.精灵图的 background-size 设置？
+1.精灵图的 background-size 设置
   移动端
 
-2.ul里面的font-size:0 的作用？
+2.ul里面的font-size:0 的作用
 更好的还原设计稿，在父元素很有必要设置font-size:0，避免莫名其妙的间距。
 
 3.弹性盒模型  父 display:flex  子 flex:1; 
